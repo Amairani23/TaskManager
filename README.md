@@ -75,3 +75,6 @@ Proyecto en desarrollo, creado con fines de aprendizaje y práctica de React, Ty
 👨‍💻 Autor
 
 Desarrollado por Amairani Romero
+
+Imagen de la palicación:
+![](https://github.com/Amairani23/TaskManager/blob/ef8bfd0e58ca31ad6c4df9807d85f0cc956a1e9a/img/imagen-muestra.jpg)
